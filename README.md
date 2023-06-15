@@ -1,3 +1,6 @@
+![System Architecture Diagram](https://i.ibb.co/z6YJrJF/Screenshot-1.png)
+
+
 ## Project Description: HA and Robust restaurant Application with Docker Compose
 
 This project aims to develop a highly available and robust restaurant application using Docker Compose for a Software Engineering for Cloud Native Applications course. The assignment focuses on implementing key features such as persistence, fault tolerance, and load balancing.
