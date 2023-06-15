@@ -31,6 +31,6 @@ This project aims to develop a highly available and robust restaurant applicatio
 - Ensure persistence for the Meals Service and the Diet Service by leveraging a persistent storage mechanism.
 - Utilize Docker Compose to automatically restart failed services and maintain uninterrupted request processing.
 - Implement a reverse-proxy server (e.g., NGINX) for efficient request routing.
-- Achieve extra credit by implementing load balancing for the Meals Service to distribute requests evenly.
+- Implement load balancing for the Meals Service to distribute requests evenly.
 
 By completing this assignment, I gain practical experience in building cloud-native applications that exhibit high availability, fault tolerance, and efficient request routing through the use of Docker Compose, reverse-proxy servers, and persistent storage mechanisms.
