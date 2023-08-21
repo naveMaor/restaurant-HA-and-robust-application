@@ -18,7 +18,7 @@ This project aims to develop a highly available and robust restaurant applicatio
 
 4. **Reverse-Proxy Routing:** To efficiently route requests to the appropriate server, a reverse-proxy server (such as NGINX) is employed. The reverse-proxy examines the incoming requests and forwards them to the appropriate service (either Meals Service or Diet Service).
 
-5. **Extra Credit - Load Balancing:** As an optional extra credit feature, load balancing can be implemented for the Meals Service. Load balancing ensures that incoming requests are evenly distributed among multiple instances of the Meals Service, improving performance and scalability.
+5. **Load Balancing:** Load balancing implemented for the Meals Service. Load balancing ensures that incoming requests are evenly distributed among multiple instances of the Meals Service, improving performance and scalability.
 
 ### Technologies Used
 - Docker Compose: Container orchestration tool used to manage the deployment and scaling of multiple services.
